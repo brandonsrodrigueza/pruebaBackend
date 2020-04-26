@@ -3,7 +3,7 @@ Prueba de backend
 
 Prueba de Backend, Brandon Stiven Rodriguez Aldana
 
-Para la solución de la prueba utilicé visual studio code.
+Para la solución de la prueba utilicé visual studio code. Se generó una tabla de 249 registros.
 
 Solución a cada uno de los criterios:
 1. El consumo del Api trae cada una de las regiones que se encuentra al consultar todos los paises.
